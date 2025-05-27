@@ -1,2 +1,2 @@
-# first_project
+# energy_calculator
 hi
